@@ -2,7 +2,7 @@
 
 Example of usage:
 
-'''
+
 └─# python3 dirdiscover.py 127.0.0.1 /usr/share/wordlists/dirb/small.txt                                             
 ############### DIRECTORY DISCOVERY ###############       
 Host: 127.0.0.1                                           
@@ -30,4 +30,4 @@ Path: /2005         Status Code: 404
 Path: /3         Status Code: 404                                                                                    
 Path: /@         Status Code: 404
 ...
-'''
+
