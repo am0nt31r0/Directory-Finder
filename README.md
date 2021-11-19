@@ -8,6 +8,7 @@ Example of usage:
 Host: 127.0.0.1                                           
 Wordlist: /usr/share/wordlists/dirb/small.txt             
 ###################################################
+
 Path: /0         Status Code: 404                         
 Path: /00         Status Code: 404             
 Path: /01         Status Code: 404                        
